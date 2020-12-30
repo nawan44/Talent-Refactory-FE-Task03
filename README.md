@@ -2,20 +2,20 @@
 
 
 #Company Profile 
-Ide :
+
+#Ide :
 <ul>
-<li>Landing Page berisikan informasi tentang perusahaan terbagi dari tentang perusahaan, layanan, portofolio dan contact</li>
-<li>Design menggunakan gradasi warna gelap dibagian atas selang seling warna dengan putih dan biru</li>
-<li>Terbagi dari bagian :
+<li>Design menggunakan gradasi warna gelap dibagian atas selang seling warna dengan putih dan biru agar user tidak jenuh melihat </li>
+<li>Terbagi dari bagian yang memberikan info :
 <ul>
-<li> Header : Nav Info umum perusahaan</li>
-<li>Tentang Perusahaan</li>
-<li>Layanan</li>
-<li>Media Partner</li>
-<li>Portofolio</li>
-<li>List Client</li>
-<li>Contact</li>
-<li>Footer berisi info kontak, alamat, media sosial</li>
+<li> Header : Nav Info umum perusahaan (Nama Perusahaan, Logo, Tagline)</li>
+<li> Section : Tentang Perusahaan</li>
+<li>Section : Layanan</li>
+<li>Section : Media Partner</li>
+<li>Section : Portofolio</li>
+<li>Section : List Client</li>
+<li>Section : Contact</li>
+<li>Footer : Berisi info kontak, alamat, media sosial</li>
 
 </ul>
 </li>
