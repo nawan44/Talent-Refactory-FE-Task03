@@ -1,15 +1,16 @@
 # Talent-Refactory-FE-Task03
 
 
-#Company Profile 
+#Company Profile yang menampilkan informasi perusahaan, portofolio, dan kontak
 
 #Ide :
 <ul>
 <li>Design menggunakan gradasi warna gelap dibagian atas selang seling warna dengan putih dan biru agar user tidak jenuh melihat </li>
+<li>Page scrolling</li>
 <li>Terbagi dari bagian yang memberikan info :
 <ul>
-<li> Header : Nav Info umum perusahaan (Nama Perusahaan, Logo, Tagline)</li>
-<li> Section : Tentang Perusahaan</li>
+<li>Header : Nav Info umum perusahaan (Nama Perusahaan, Logo, Tagline)</li>
+<li>Section : Tentang Perusahaan</li>
 <li>Section : Layanan</li>
 <li>Section : Media Partner</li>
 <li>Section : Portofolio</li>
